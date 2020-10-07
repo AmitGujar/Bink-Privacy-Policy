@@ -5,8 +5,4 @@ firstPRWelcomeComment: >
 
 # Comment to be posted to congratulate user on their first merged PR
 firstPRMergeComment: >
-  Awesome work, congrats on your first merged pull request!
-
-# Comment to be posted to on first time issues
-firstIssueWelcomeComment: >
-  Thanks for opening your first issue here! Be sure to follow the issue template!
+  Awesome work, merge will be labelled as hacktoberfest-accepted :rocket:
