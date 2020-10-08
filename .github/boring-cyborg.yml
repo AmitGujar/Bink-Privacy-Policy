@@ -1,8 +1,0 @@
-##### Greetings ########################################################################################################
-# Comment to be posted to welcome users when they open their first PR
-firstPRWelcomeComment: >
-  Thanks for opening this pull request! Please check out our contributing guidelines.
-
-# Comment to be posted to congratulate user on their first merged PR
-firstPRMergeComment: >
-  Awesome work, merge will be labelled as hacktoberfest-accepted.
